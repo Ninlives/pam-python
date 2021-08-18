@@ -1,6 +1,6 @@
 # pam-python
 
-Originally developed by Russell Stuart at ![http://pam-python.sourceforge.net/](http://pam-python.sourceforge.net/), adapted to compile with python3.
+Originally developed by Russell Stuart at http://pam-python.sourceforge.net/, adapted to compile with python3.
 
 # License
 
